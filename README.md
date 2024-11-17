@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @handebudak
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me bdkhande@gmail.com
+- https://open.spotify.com/intl-tr/track/3VdTkrOXjoKe4nutykkoz1?si=ba2de438f2b74e76
 
 <!---
 handebudak/handebudak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
