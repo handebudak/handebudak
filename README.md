@@ -4,7 +4,7 @@ Software Developer
 
 ---
 
-### ✨ About Me:
+
 I'm a software developer with a background in marketing, currently focused on frontend technologies like React.js and JavaScript, while also exploring Node.js and other backend technologies to expand my skill set.
 
 ---
