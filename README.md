@@ -5,9 +5,9 @@ Software Developer
 ---
 
 ### ⚫ About Me:
-- 💜 From **marketing** to **coding** — creating, learning, and growing.
-- 💜 Currently working with **React.js**, **JavaScript**
-- 💜 Exploring **Node.js** and backend technologies.
+-  From **marketing** to **coding** — creating, learning, and growing.
+-  Currently working with **React.js**, **JavaScript**
+-  Exploring **Node.js** and backend technologies.
 
 ---
 
