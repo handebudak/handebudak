@@ -4,14 +4,12 @@ Software Developer
 
 ---
 
-### ⚫ About Me:
--  From **marketing** to **coding** — creating, learning, and growing.
--  Currently working with **React.js**, **JavaScript**
--  Exploring **Node.js** and backend technologies.
+### ✨ About Me:
+I'm a software developer with a background in marketing, currently focused on frontend technologies like React.js and JavaScript, while also exploring Node.js and other backend technologies to expand my skill set.
 
 ---
 
-### ⚫ Technologies & Tools:
+### ✨ Technologies & Tools:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,7 +20,7 @@ Software Developer
 
 ---
 
-### ⚫ GitHub Stats:
+### ✨ GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandeBudak&layout=compact&theme=radical)
 
