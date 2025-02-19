@@ -20,7 +20,7 @@ I'm a software developer with a background in marketing, currently focused on fr
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandeBudak&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandeBudak&layout=compact&theme=solarized-light)
 
 
 ---
