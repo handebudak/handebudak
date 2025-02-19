@@ -9,7 +9,6 @@ I'm a software developer with a background in marketing, currently focused on fr
 
 ---
 
-### ✨ Technologies & Tools:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -20,7 +19,6 @@ I'm a software developer with a background in marketing, currently focused on fr
 
 ---
 
-### ✨ GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandeBudak&layout=compact&theme=radical)
 
