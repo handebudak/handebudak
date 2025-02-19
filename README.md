@@ -1,14 +1,13 @@
-## Hey there, I'm Hande Budak! 🌟
+## Hey there
 
 Software Developer 
 
 ---
 
 ### 🌟 About Me:
-- 💡 Transitioned from **Marketing** to **Software Development**.
+- 💡 From **marketing** to **coding** — creating, learning, and growing.
 - 🔧 Currently working with **React.js**, **JavaScript**
 - 💡 Exploring **Node.js** and backend technologies.
-- 👥 Open to collaboration on cool web projects.
 
 ---
 
