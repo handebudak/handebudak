@@ -17,7 +17,8 @@ I'm a software developer with a background in marketing, currently focused on fr
 ---
 
 ### 🔍 Connect with Me:
-- 🌟 [LinkedIn](https://www.linkedin.com/in/hande-budak-658702159/) 
+-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hande-budak-658702159/)
+
 
 ---
 
